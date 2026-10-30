@@ -1,0 +1,8 @@
+* S7 CMOS inverter
+.include 65nm_bulk.pm
+Vdd vdd 0 1.1
+Vin in 0 0
+M1 out in 0 0 nmos0 l=65n w=1u
+M2 out in vdd vdd pmos0 l=65n w=2u
+.dc Vin 0 1.1 1m
+.end

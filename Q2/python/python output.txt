@@ -1,0 +1,9 @@
+Quantity   		SPICE     Table 5.1
+         VTH,lin (V)   0.376       0.38
+ VTH,cc at 50 mV (V)   0.270       0.27
+ VTH,cc at 1.1 V (V)   0.133       0.13
+         DIBL (mV/V) 130.044     130.00
+SS at 50 mV (mV/dec)  89.742      90.00
+SS at 1.1 V (mV/dec)  95.975      96.00
+         ION (mA/um)   1.152       1.15
+        IOFF (nA/um)  66.929      67.00

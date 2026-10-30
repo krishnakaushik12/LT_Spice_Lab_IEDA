@@ -1,0 +1,21 @@
+       --- Operating Point ---(70n)
+
+V(n001):	 1.1	 voltage
+V(n002):	 1.1	 voltage
+I(V1):	 -1.49238e-08	 device_current
+I(V2):	 -0.00104856	 device_current
+Ib(M1):	 -8.89906e-12	 device_current
+Id(M1):	 0.00104856	 device_current
+Ig(M1):	 1.49238e-08	 device_current
+Is(M1):	 -0.00104858	 device_current
+
+       --- Operating Point ---(65n)
+
+V(n001):	 1.1	 voltage
+V(n002):	 1.1	 voltage
+I(V1):	 -1.42847e-08	 device_current
+I(V2):	 -0.00115229	 device_current
+Ib(M1):	 -1.17917e-11	 device_current
+Id(M1):	 0.00115229	 device_current
+Ig(M1):	 1.42847e-08	 device_current
+Is(M1):	 -0.00115231	 device_current

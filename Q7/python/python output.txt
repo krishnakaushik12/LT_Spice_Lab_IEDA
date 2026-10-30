@@ -1,0 +1,4 @@
+Vout at Vin = 0 V:     1.1000 V
+Vout at Vin = 1.1 V:   0.0000 V
+Switching threshold:   0.5278 V
+VDD / 2:               0.5500 V

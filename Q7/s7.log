@@ -1,0 +1,14 @@
+LTspice 26.0.2 for Windows
+Circuit: H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q7\s7.cir
+Start Time: Fri Oct 30 04:42:30 2026
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = trap
+Total elapsed time: 0.049 seconds.
+
+Files loaded:
+H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q7\s7.cir
+H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q7\65nm_bulk.pm
+

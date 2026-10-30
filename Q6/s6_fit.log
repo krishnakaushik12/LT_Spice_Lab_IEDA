@@ -1,0 +1,17 @@
+LTspice 26.0.2 for Windows
+Circuit: H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q6\s6_fit.cir
+Start Time: Fri Oct 30 13:05:07 2026
+Options:numdgt=7
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = trap
+.step mode=0
+.step mode=1
+Total elapsed time: 0.099 seconds.
+
+Files loaded:
+H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q6\s6_fit.cir
+H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q6\nfit.pm
+

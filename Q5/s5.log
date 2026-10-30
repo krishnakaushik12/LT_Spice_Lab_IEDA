@@ -1,0 +1,100 @@
+LTspice 26.0.2 for Windows
+Circuit: H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q5\s5.cir
+Start Time: Fri Oct 30 02:57:33 2026
+Options:numdgt=7
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = trap
+Warning: toxe, toxp and dtox all given and toxe != toxp + dtox; dtox ignored.
+.step mode=0 case=1
+.step mode=1 case=1
+.step mode=0 case=2
+.step mode=1 case=2
+.step mode=0 case=3
+.step mode=1 case=3
+.step mode=0 case=4
+.step mode=1 case=4
+.step mode=0 case=5
+.step mode=1 case=5
+.step mode=0 case=6
+.step mode=1 case=6
+.step mode=0 case=7
+.step mode=1 case=7
+.step mode=0 case=8
+.step mode=1 case=8
+.step mode=0 case=9
+.step mode=1 case=9
+.step mode=0 case=10
+.step mode=1 case=10
+.step mode=0 case=11
+.step mode=1 case=11
+.step mode=0 case=12
+.step mode=1 case=12
+.step mode=0 case=13
+.step mode=1 case=13
+.step mode=0 case=14
+.step mode=1 case=14
+.step mode=0 case=15
+.step mode=1 case=15
+.step mode=0 case=16
+.step mode=1 case=16
+.step mode=0 case=17
+.step mode=1 case=17
+.step mode=0 case=18
+.step mode=1 case=18
+.step mode=0 case=19
+.step mode=1 case=19
+.step mode=0 case=20
+.step mode=1 case=20
+.step mode=0 case=21
+.step mode=1 case=21
+.step mode=0 case=22
+.step mode=1 case=22
+.step mode=0 case=23
+.step mode=1 case=23
+.step mode=0 case=24
+.step mode=1 case=24
+.step mode=0 case=25
+.step mode=1 case=25
+.step mode=0 case=26
+.step mode=1 case=26
+.step mode=0 case=27
+.step mode=1 case=27
+.step mode=0 case=28
+.step mode=1 case=28
+.step mode=0 case=29
+.step mode=1 case=29
+.step mode=0 case=30
+.step mode=1 case=30
+.step mode=0 case=31
+.step mode=1 case=31
+.step mode=0 case=32
+.step mode=1 case=32
+.step mode=0 case=33
+.step mode=1 case=33
+.step mode=0 case=34
+.step mode=1 case=34
+.step mode=0 case=35
+.step mode=1 case=35
+.step mode=0 case=36
+.step mode=1 case=36
+.step mode=0 case=37
+.step mode=1 case=37
+.step mode=0 case=38
+.step mode=1 case=38
+.step mode=0 case=39
+.step mode=1 case=39
+.step mode=0 case=40
+.step mode=1 case=40
+.step mode=0 case=41
+.step mode=1 case=41
+.step mode=0 case=42
+.step mode=1 case=42
+Total elapsed time: 3.690 seconds.
+
+Files loaded:
+H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q5\s5.cir
+H:\college\Semester 3\IEDA\LT SPICE\Questions and Solutions\Q5\65nm_bulk.pm
+

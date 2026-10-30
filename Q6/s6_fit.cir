@@ -1,0 +1,18 @@
+* S6 - tune nfit to the TCAD curves
+* mode 0: ID-VG at VDS = 0.4 V (VGS 0 to 3 V)   mode 1: ID-VD at VGS = 0.9 V
+.include nfit.pm
+.options numdgt=7
+
+* knobs: starting values are the PTM values (edit these between runs)
+.param pvth0=0.58 pnfactor=1.9 pvoff=-0.13 peta0=0.010
+.param pu0=0.012 pua=6e-10 pub=1.2e-18 pvsat=124340 ppclm=0.12 prdsw=280
+
+.step param mode 0 1 1
+
+V3 x 0 0
+B1 g 0 V=if(mode<0.5, V(x), 0.9)
+B2 d 0 V=if(mode<0.5, 0.4, V(x))
+M1 d g 0 0 nfit l=70n w=1u
+
+.dc V3 0 3 5m
+.end
